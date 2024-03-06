@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LenoXbrs](https://github.com/LenoXbrs)
 
-- 💬 Ask me about **java EE, Bootstrap, css**
+- 💬 Ask me about **java EE, Bootstrap, sql**
 
 - 📫 How to reach me **drumondexp@gmail.com**
 
