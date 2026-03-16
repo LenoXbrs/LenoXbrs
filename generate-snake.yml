@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Executa automaticamente a cada 12 horas
+  
     - cron: "0 */12 * * *"
-  # Permite rodar manualmente na aba Actions
+  
   workflow_dispatch:
-  # Executa toda vez que houver push na branch main
+ 
   push:
     branches:
     - main
@@ -29,7 +29,7 @@ jobs:
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # É pra essa branch que o README.md está apontando a URL das imagens
+         
           target_branch: output
           build_dir: dist
         env:
