@@ -7,6 +7,15 @@
 </div>
 
 <p align="center">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:drumondexp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=LenoXbrs&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=blue&style=flat-square" alt="contador de views" />
 </p>
 
@@ -14,11 +23,12 @@
 
 ## 🚀 Sobre Mim
 
-- 💼 Atualmente trabalhando em **projetos desafiadores de Back-end**.
+- 💼 Atualmente trabalhando em **Integrações financeiras e sistemas de gestão**.
 - 📚 Estudando e me aprimorando em **Arquiteturas Escaláveis, Microsserviços e Cloud**.
 - 🎯 Focando em qualidade de código e testes automatizados.
 - 💬 Pergunte-me sobre **Java, Spring, Quarkus e C#**, estou sempre disposto a ajudar!
 - 📫 Como chegar até mim: [drumondexp@gmail.com](mailto:drumondexp@gmail.com)
+- ⚡ Curiosidade: Eu escrevo código que funciona na minha máquina (e espero que em produção também!).
 
 ---
 
@@ -48,7 +58,18 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🏆 Troféus do GitHub
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <!-- Os troféus são dinâmicos dependendo dos seus commits, repósitorios, etc -->
+    <img src="https://github-profile-trophy.vercel.app/?username=LenoXbrs&theme=nord&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas e Contribuições
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LenoXbrs&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
@@ -57,6 +78,16 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LenoXbrs&theme=nord" alt="GitHub Streak" />
+</div>
+
+<!-- Animação da Cobrinha (Snake) -->
+<div align="center">
+  <h3>🐍 Minhas Contribuições (Snake Animation)</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LenoXbrs/LenoXbrs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LenoXbrs/LenoXbrs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LenoXbrs/LenoXbrs/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
