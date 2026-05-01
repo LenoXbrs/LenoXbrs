@@ -1,123 +1,98 @@
 <div align="center">
-
-# 👋 Olá, eu sou o Drumond!
-
-### 💻 Desenvolvedor Back-end | Java • Spring • Quarkus • C#
-
-<a href="mailto:drumondexp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-drumondexp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/drumond/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/drumondexp" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=drumondexp&label=Visitas%20no%20perfil&color=0e75b6&style=flat" alt="Profile views" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Ol%C3%A1,%20Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Header" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end;Especialista+em+Constru%C3%A7%C3%A3o+de+APIs;C%23+%7C+Quarkus+%7C+Spring" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/luis-eduardo-drumond-98a224223/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:drumondexp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LenoXbrs&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=blue&style=flat-square" alt="contador de views" />
+</p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-```yaml
-nome: Drumond
-funcao: Desenvolvedor Back-end
-foco_atual:
-  - Integrações financeiras e sistemas de gestão
-  - Arquiteturas escaláveis e microsserviços
-  - Cloud, qualidade de código e testes automatizados
-stack_principal: [Java, Spring Boot, Quarkus, C#, .NET]
-aprendendo: [Kubernetes, AWS, Design Patterns avançados]
-contato: drumondexp@gmail.com
-```
+- 💼 Atualmente trabalhando em **Integrações financeiras e sistemas de gestão**.
+- 📚 Estudando e me aprimorando em **Arquiteturas Escaláveis, Microsserviços e Cloud**.
+- 🎯 Focando em qualidade de código e testes automatizados.
+- 💬 Pergunte-me sobre **Java, Spring, Quarkus e C#**, estou sempre disposto a ajudar!
+- 📫 Como chegar até mim: [drumondexp@gmail.com](mailto:drumondexp@gmail.com)
 
-- 💼 Atualmente trabalhando com **integrações financeiras e sistemas de gestão**
-- 🌱 Estudando **arquiteturas escaláveis, microsserviços e cloud**
-- 🧪 Apaixonado por **clean code, SOLID e testes automatizados**
-- 💬 Pergunte-me sobre **Java, Spring, Quarkus e C#** — estou sempre pronto a ajudar!
-- 📫 Fale comigo: **drumondexp@gmail.com**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+### 💻 Back-end & Frameworks
+<p align="center">
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <!-- .NET -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="." />
+  <!-- Quarkus -->
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
+  <!-- Spring -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
-### 🗄️ Bancos de Dados
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### ☁️ Cloud, DevOps & Mensageria
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-</p>
-
-### 🧰 Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+### 🗄️ Banco de Dados & Outros
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 ## 🏆 Troféus do GitHub
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=drumondexp&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <!-- Os troféus são dinâmicos dependendo dos seus commits, repósitorios, etc -->
+    <img src="https://github-profile-trophy.vercel.app/?username=LenoXbrs&theme=nord&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas e Contribuições
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=drumondexp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drumondexp&layout=compact&langs_count=8&theme=tokyonight" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=drumondexp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LenoXbrs&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenoXbrs&layout=compact&theme=nord" alt="Top Linguagens" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LenoXbrs&theme=nord" alt="GitHub Streak" />
+</div>
+
+<!-- Animação da Cobrinha (Snake) -->
+<div align="center">
+  <h3>🐍 Minhas Contribuições</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LenoXbrs/LenoXbrs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LenoXbrs/LenoXbrs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LenoXbrs/LenoXbrs/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 
 ---
 
-## 🐍 Minhas Contribuições
-
-<div align="center">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/drumondexp/drumondexp/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-
-### ✨ *"Código limpo é aquele que pode ser lido com facilidade — por humanos, não apenas por máquinas."* — Robert C. Martin
-
-⭐️ De [drumondexp](https://github.com/drumondexp)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Waving" />
+</p>
