@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end;Apaixonado+por+Tecnologia;Especialista+em+Constru%C3%A7%C3%A3o+de+APIs;C%23+%7C+Quarkus+%7C+Spring" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end;Especialista+em+Constru%C3%A7%C3%A3o+de+APIs;C%23+%7C+Quarkus+%7C+Spring" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -82,7 +82,7 @@
 
 <!-- Animação da Cobrinha (Snake) -->
 <div align="center">
-  <h3>🐍 Minhas Contribuições (Snake Animation)</h3>
+  <h3>🐍 Minhas Contribuições</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LenoXbrs/LenoXbrs/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LenoXbrs/LenoXbrs/output/github-contribution-grid-snake.svg">
