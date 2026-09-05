@@ -24,7 +24,7 @@
 ## 🚀 Sobre Mim
 
 - 💼 Atualmente trabalhando em **Integrações financeiras e sistemas de gestão**.
-- 📚 Estudando e me aprimorando em **Arquiteturas Escaláveis, Microsserviços e Cloud**.
+- 📚 Estudando e me aprimorando em **Arquiteturas Escaláveis, Microsserviços e Ruby**.
 - 🎯 Focando em qualidade de código e testes automatizados.
 - 💬 Pergunte-me sobre **Java, Spring, Quarkus e C#**, estou sempre disposto a ajudar!
 - 📫 Como chegar até mim: [drumondexp@gmail.com](mailto:drumondexp@gmail.com)
